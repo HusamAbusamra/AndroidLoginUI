@@ -1,5 +1,5 @@
 # AndroidLoginUI
-Login Interface with enimation 
+Login Interface with Animation 
 
 #Screenshots 
 
